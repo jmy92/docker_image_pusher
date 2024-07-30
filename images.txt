@@ -1,4 +1,4 @@
-nginx
-pytorch/pytorch:1.6.0-cuda10.1-cudnn7-runtime
-pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
-# again again
+pytorch/pytorch:2.4.0-cuda12.1-cudnn9-runtime
+pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel
+pytorch/pytorch:2.2.2-cuda12.1-cudnn8-runtime
+pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
