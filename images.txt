@@ -1,4 +1,1 @@
-pytorch/pytorch:2.4.0-cuda12.1-cudnn9-runtime
-pytorch/pytorch:2.4.0-cuda12.1-cudnn9-devel
-pytorch/pytorch:2.2.2-cuda12.1-cudnn8-runtime
-pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
+continuumio/miniconda3:4.12.0
