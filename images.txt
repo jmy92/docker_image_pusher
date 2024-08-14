@@ -1,1 +1,1 @@
-continuumio/miniconda3:4.12.0
+sscms/core:latest
