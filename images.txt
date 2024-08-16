@@ -1,1 +1,1 @@
-sscms/core:latest
+Stirling-PDF:latest
