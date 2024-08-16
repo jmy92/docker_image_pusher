@@ -1,1 +1,1 @@
-stirling-pdf:latest
+stirling-pdf
