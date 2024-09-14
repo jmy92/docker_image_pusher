@@ -1,1 +1,1 @@
-frooodle/s-pdf
+onlyoffice/documentserver:5.3.4.3
