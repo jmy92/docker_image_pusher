@@ -1,2 +1,4 @@
+pytorch/pytorch:2.7.1-cuda12.6-cudnn9-runtime
+pytorch/pytorch:2.7.1-cpu
 1340691923/elastic_view:0.0.20
 
